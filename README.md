@@ -14,3 +14,7 @@ To je moj prvi GitHub repozitorij. Namenjen je učenju osnov Git-a in GitHuba.
 ## Zabavna stvar o meni 😎
 
 Prav Nič.
+
+## Moj cilj 🎯
+
+Moj cilj je, da se naučim čim več o programiranju in ustvarim svoje prve projekte.
